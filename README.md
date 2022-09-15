@@ -36,7 +36,7 @@
  <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
  <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
 </a>
 </p>
 
