@@ -1,12 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-e8f97.appspot.com/o/banner%20(1).png?alt=media&token=1d15addc-24b8-4b02-ba78-63bae7df1086)](https://github.com/bilalezzaaraoui)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalezzaaraoui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalezzaaraoui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
  <p align="center">
   I'm a Front-end developer specialized in React JS and TypeScript/JavaScript. Motivated by building products that users love and writing code that is maintainable and easy to read. I hope to see real impact from the work that I take on. Experienced in remote working, I am a team player who values great communication and learning new things. Don't hesitate to contact me for your web application needs !
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-e8f97.appspot.com/o/laptop.gif?alt=media&token=4d24e854-80ae-4763-9c1f-751b8dc9d960" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
