@@ -3,7 +3,7 @@
 
 
  <p align="center">
-  I'm a Front-end developer specialized in React JS and TypeScript/JavaScript. Motivated by building products that users love and writing code that is maintainable and easy to read. I hope to see real impact from the work that I take on. Experienced in remote working, I am a team player who values great communication and learning new things. Don't hesitate to contact me for your web application needs !
+  I'm a Front-end developer specialized in React JS and TypeScript/JavaScript. Motivated by building products that users love and writing code that is maintainable and easy to read. I hope to see real impact from the work that I take on. I am a team player who values great communication and learning new things. Don't hesitate to contact me  !
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-e8f97.appspot.com/o/laptop.gif?alt=media&token=4d24e854-80ae-4763-9c1f-751b8dc9d960" width="50"></h2>
