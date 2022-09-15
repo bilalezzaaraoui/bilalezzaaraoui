@@ -2,20 +2,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalezzaaraoui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center">
-
-</p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png](https://firebasestorage.googleapis.com/v0/b/portfolio-e8f97.appspot.com/o/banner%20(1).png?alt=media&token=1d15addc-24b8-4b02-ba78-63bae7df1086" />
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
-
-</p>
-
  <p align="center">
   I'm a Front-end developer specialized in React JS and TypeScript/JavaScript. Motivated by building products that users love and writing code that is maintainable and easy to read. I hope to see real impact from the work that I take on. Experienced in remote working, I am a team player who values great communication and learning new things. Don't hesitate to contact me for your web application needs !
 </p>  
