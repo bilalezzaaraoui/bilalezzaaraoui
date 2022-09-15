@@ -3,9 +3,9 @@
 
 
 <p align="center">
- 
+
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png](https://firebasestorage.googleapis.com/v0/b/portfolio-e8f97.appspot.com/o/banner%20(1).png?alt=media&token=1d15addc-24b8-4b02-ba78-63bae7df1086" />
 
 <p align="center">
  
@@ -16,9 +16,9 @@
 
 </p>
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+ <p align="center">
+  I'm a Front-end developer specialized in React JS and TypeScript/JavaScript. Motivated by building products that users love and writing code that is maintainable and easy to read. I hope to see real impact from the work that I take on. Experienced in remote working, I am a team player who values great communication and learning new things. Don't hesitate to contact me for your web application needs !
+</p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
