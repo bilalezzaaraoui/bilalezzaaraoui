@@ -38,10 +38,7 @@
  
 <br>
 
-<p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bilalezzaaraoui&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bilalezzaaraoui&hide=html,css&theme=radical">
-</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bilalezzaaraoui)](https://git.io/streak-stats)
 
 
