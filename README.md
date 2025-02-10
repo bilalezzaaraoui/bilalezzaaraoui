@@ -1,5 +1,5 @@
  <p align="center">
-  I'm Bilal Ezzaaraoui, a seasoned React.js and React Native Developer. 
+  I'm Bilal Ezzaaraoui, a seasoned React.js and React Native Developer. <br/>
   With 5 years of crafting innovative solutions, I'm eager to connect and collaborate! 
 </p>  
 
