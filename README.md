@@ -8,16 +8,17 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/react%20native-61dafb?style=for-the-badge&logo=createreactapp&logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red"/>
  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=green"/>
-  <img src="https://img.shields.io/badge/react%20native-61dafb?style=for-the-badge&logo=createreactapp&logoColor=black"/>
- <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=cypress&logoColor=white"/>
+
  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 </p>
