@@ -1,5 +1,6 @@
  <p align="center">
-  I'm Bilal Ezzaaraoui, a seasoned React.js and React Native Developer. With 5 years of crafting innovative solutions, I'm eager to connect and collaborate! 
+  I'm Bilal Ezzaaraoui, a seasoned React.js and React Native Developer. 
+  With 5 years of crafting innovative solutions, I'm eager to connect and collaborate! 
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-e8f97.appspot.com/o/laptop.gif?alt=media&token=4d24e854-80ae-4763-9c1f-751b8dc9d960" width="50"></h2>
