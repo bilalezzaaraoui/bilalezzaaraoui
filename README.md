@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/react%20native-61dafb?style=for-the-badge&logo=createreactapp&logoColor=black"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
